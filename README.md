@@ -1,4 +1,4 @@
-### Hi there, I'm Manik -  [Manik][https://manikroy.netlify.app/] 👋
+### Hi there, I'm Manik -  [Manik][website] 👋
 
 ## I'm a Husband, Father, Developer, and Teacher!
 - 🔭 I’m currently working on a [Programming Hero][https://www.programming-hero.com/]!
