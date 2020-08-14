@@ -1,7 +1,7 @@
 ### Hi there, I'm Manik -  [Manik][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working on a [Programming Hero][programming]!
+- 🔭 I’m currently working [Programming Hero][programming]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn React,Vue, Node
 - ⚡ Fun fact: I love to see movie and play cricket 
