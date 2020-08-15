@@ -34,9 +34,7 @@
 <br />
 <br />
 
-
-
-<img align="left" alt="manik roy Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=manik-roy&show_icons=true&hide_border=true" />
+<img align="left" alt="manik roy Github Stats"  src="https://github-readme-stats.vercel.app/api?username=manik-roy&show_icons=true"/>](https://github.com/manik-roy)
 
 [programming]: https://www.programming-hero.com/
 [website]: https://manikroy.netlify.app/
