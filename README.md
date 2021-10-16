@@ -1,4 +1,4 @@
-### Hi there, I'm Manik -  [Manik][website] 👋
+### Hi there, I'm  -  [Manik][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working [Programming Hero][programming]!
