@@ -1,7 +1,7 @@
 ### Hi there, I'm  -  [Manik][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
-- 🔭 I’m currently working [Programming Hero][programming]!
+- 🔭 I’m currently working [Kinetic Brands][kineticbrands]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 Upcoming Goals: Learn TypeScript, Next.js, Vue 😍
 - ⚡ Fun fact: I love to see movie and play cricket !
@@ -39,7 +39,7 @@
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=manik-roy&card_width=550)](https://github.com/manik-roy/manik-roy)
 
-[programming]: https://www.programming-hero.com/
+[kineticbrands]: https://www.kineticbrands.com/
 [website]: https://manikroy.netlify.app/
 [twitter]: https://manikroy.netlify.app/
 [youtube]:  https://manikroy.netlify.app/
