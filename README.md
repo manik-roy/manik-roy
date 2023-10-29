@@ -3,7 +3,7 @@
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🔭 I’m currently working [Kinetic Brands][kineticbrands]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 Upcoming Goals: Learn TypeScript, Next.js, Vue 😍
+- 🥅 Upcoming Goals: Learn Shopify App Development 😍
 - ⚡ Fun fact: I love to see movie and play cricket !
 
 ### Connect with me:
